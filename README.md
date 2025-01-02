@@ -1,4 +1,6 @@
 
+[http://github.com/Rustixir/gector/logo.webp]
+
 # HNSW-based Vector Storage in Go
 
 This repository provides an in-memory implementation of **HNSW (Hierarchical Navigable Small World)** for high-dimensional vector storage, designed to support efficient approximate nearest neighbor (ANN) search. This implementation is written in Go and can be used to store and search high-dimensional vectors, typically used in machine learning, recommendation systems, and various similarity search applications.
