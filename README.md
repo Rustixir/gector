@@ -25,7 +25,7 @@ To get started, you need to have **Go** installed on your system. You can downlo
 1. Install dependencies (if any):
 
 ```bash
-go get github.com/rustixir/gector
+go get github.com/Rustixir/gector
 ```
 
 2. Build the project (optional if you want to run as a standalone application):
