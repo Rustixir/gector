@@ -1,5 +1,5 @@
 
-[http://github.com/Rustixir/gector/logo.webp]
+[[http://github.com/Rustixir/gector/logo.webp](https://github.com/Rustixir/gector/blob/main/DALL%C2%B7E%202025-01-02%2003.38.35%20-%20A%20modern%20and%20sleek%20logo%20design%20for%20'Gector'%2C%20a%20high-performance%20vector%20storage%20system%20written%20in%20Go.%20The%20logo%20should%20feature%20a%20minimalist%2C%20tech-inspir.webp)]
 
 # HNSW-based Vector Storage in Go
 
