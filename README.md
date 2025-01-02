@@ -21,16 +21,10 @@ This repository provides an in-memory implementation of **HNSW (Hierarchical Nav
 
 To get started, you need to have **Go** installed on your system. You can download and install Go from the official website: [https://golang.org/dl/](https://golang.org/dl/).
 
-1. Install dependencies (if any):
+Install dependencies (if any):
 
 ```bash
 go get github.com/Rustixir/gector
-```
-
-2. Build the project (optional if you want to run as a standalone application):
-
-```bash
-go build -o hnsw-vector-storage
 ```
 
 ## Usage
